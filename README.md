@@ -1,6 +1,6 @@
 # QuickPic
 
-QuickPic is a Raycast extension that lets you save images under keywords and later paste them as files into apps like Slack or Telegram.
+QuickPic is a Raycast extension that lets you save images under keywords and later paste them as files into any app.
 
 ## Commands
 
